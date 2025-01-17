@@ -1,0 +1,46 @@
+.club-profile-card{
+    margin-top: 100px;
+   
+    box-shadow: 4px 4px 10px 1px rgba(0, 0, 0, 0.178);
+
+    width: 400px;
+    padding: 10px;
+   
+    
+}
+.div-so{
+    display: flex;
+    justify-content: space-between;
+}
+.club-name-profile{
+    margin-top: 5px;
+}
+.club-comment-profile{
+    color: #929AAB;
+}
+.club-comment-profile p {
+    font-size: 12px;
+}
+
+.club-out-btn{
+    width: 80px;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-right: 10px;
+    margin-bottom: 7px;
+    margin-left: auto;
+}
+.club-out-btn:hover{
+ background-color: red;
+ color:azure;
+ border: none;
+}
+.d1{
+    display: flex;
+    justify-content: space-between;
+}
+.club-delete-btn:hover{
+    background-color: red;
+    color:azure;
+}

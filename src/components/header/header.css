@@ -1,0 +1,24 @@
+header
+{   
+    top:0;
+    left: 0;
+    width: 100%;
+    padding: 0 10px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #F7F7F7;
+    background-color: #393E46;
+    box-shadow: 0px 5px 10px 1px rgba(0, 0, 0, 0.315);
+    position: fixed;
+   
+}
+.logo{
+    margin-left: 5% ;
+}
+
+.menu{
+    display: flex;
+    margin-right: 15px;
+}

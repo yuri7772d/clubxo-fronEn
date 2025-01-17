@@ -1,0 +1,16 @@
+.clup-member-card{
+    box-shadow: 0px 5px 10px 1px rgba(0, 0, 0, 0.315); 
+    border-radius: 15px;
+    margin-top: 10px;
+    width: 380px;
+    padding:0px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pen-icon{
+    margin-right: 10px;
+}
+.clup-member-card:hover{
+    background-color: rgb(204, 204, 204);
+}

@@ -1,0 +1,59 @@
+.create-card{
+    display: flex;
+    flex-direction: column;
+    width: 430px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px 1px rgba(0, 0, 0, 0.178);
+    height: 300px;
+}
+.create-club-header{
+    margin-left: 40px;
+    color: #929AAB
+}
+.log-name-club{
+   
+    margin: 20px 30px;
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+}
+.log-Detail-club{
+    border: none;
+    outline: none;
+    height: 100px;
+    margin: -5px 30px;
+    box-sizing: border-box;
+    resize: none;
+    padding: 5px 10px;
+}
+.create-club-button{
+    margin-top: 25px;
+    margin-left: 140px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+
+}
+.create-club-button:hover{
+   background-color: #929AAB;
+   border:none;
+}
+.join-club-button{
+    margin-top: 25px;
+    margin-left: 50px;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border:none;
+}
+.join-club-button:hover{
+    background-color: #00ccff;
+    border:none;
+}
+.boder-bottom-create{
+    border-bottom:#393E46 solid 1px ;
+    margin:0 30px;
+    margin-top: -10px;
+
+}
